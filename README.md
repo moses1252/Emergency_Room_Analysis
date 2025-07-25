@@ -76,8 +76,6 @@ Yes — I can absolutely help with that. Based on the images and conversations w
 
 Here’s a polished version of your **Data Analysis & KPI Calculation** section for this ER project using Excel:
 
----
-
 ### KPI Calculations (Excel-Based)
 
 I evaluated emergency room performance with the following KPIs in mind.
@@ -89,8 +87,20 @@ I evaluated emergency room performance with the following KPIs in mind.
 - All KPIs were visualized using Pivot Tables, filters, and slicers for dynamic, interactive analysis.
 
 
+### Findings
+At first glance the data seemed straightforward, but visualizing it in Excel revealed several meaningful patterns.
 
+Patient Volume steadily increased through mid-2024 before declining in the last two months, suggesting a possible seasonal pattern or capacity issue.
 
+Average Wait Time fluctuated throughout the year, with peaks aligning with high patient volumes—indicating potential staffing or process bottlenecks.
+
+Satisfaction Scores remained fairly consistent, averaging around 5 out of 10. However, satisfaction tended to dip slightly during high-volume months.
+
+General Practice received the highest number of referrals from the ER, far surpassing other departments, highlighting a possible resource strain in that area.
+
+Most ER admissions occurred during the morning shift, revealing a time-of-day pattern that could guide scheduling or staffing decisions.
+
+Some records had missing department or satisfaction data, indicating the need for improved data entry or system logging.
 
 
 
