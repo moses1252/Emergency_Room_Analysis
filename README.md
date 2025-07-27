@@ -14,7 +14,7 @@ This data analysis project examines emergency room visit data from 2023-2024 usi
 
 To simulate a real world healthcare reporting scenario, I took on the role of a data analyst. My objective was to communicate key insights using clear and effective visuals. This project was completed independently without relying on video tutorials, highlighting my ability to manage and execute an analysis project end-to-end using Excel alone.
 
---put dashboard image here boi
+![Dashboard](ER_Dashboard.JPG)
 
 ### Data Sources
 Hospital ER_Data.csv: The main dataset used in this project is the "Hospital ER_Data.csv" file, which includes detailed records of the patients that visited the Emercency room.
