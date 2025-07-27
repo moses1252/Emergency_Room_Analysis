@@ -88,26 +88,24 @@ I evaluated emergency room performance with the following KPIs in mind.
 
 
 ### Findings
-At first glance the data seemed straightforward, but visualizing it in Excel revealed several meaningful patterns.
+At first glance, the data seemed straightforward, but visualizing it in Excel revealed several meaningful patterns.
+1. Patient volume steadily increased through mid-2024 before dropping in the final two months, suggesting a possible seasonal trend or that data collection was still ongoing.
+2. Wait times rose during months with more patients, possibly due to staffing constraints or seasonal spikes. For example, illnesses like the flu or common cold may have played a role.
+3. Satisfaction scores remained fairly consistent, averaging around 5 out of 10, but dipped slightly during high-volume months.
+4. General Practice received significantly more ER referrals than other departments, indicating potential strain or high demand in that area.
+5. Most ER admissions occurred during the morning shift, revealing a time-of-day pattern that could inform scheduling and resource allocation.
+6. Some records contained missing department or satisfaction score data, highlighting opportunities to improve data entry practices or system tracking.
 
-Patient Volume steadily increased through mid-2024 before declining in the last two months, suggesting a possible seasonal pattern or capacity issue.
+### Recommendations
+I recommend the following from the insights I gained from this analysis:
+- Increase staffing in General Practice, which consistently receives the highest number of ER referrals. Additional resources may help reduce bottlenecks and improve patient flow.
+- Reallocate staff to cover peak morning hours, as most ER visits occur during that time. Optimizing shift coverage can improve patient experience and reduce wait times.
+- Revise the patient satisfaction survey process to better understand the drivers of low satisfaction scores. Consider follow up surveys or targeted questions to uncover specific pin points.
+- Improve referral data collection practices. Over 5,000 records showed no referral destination, which may indicate either incomplete documentation or on site issue resolution. Adding a “Treated on Site” option could clarify this category and improve data accuracy.
 
-Average Wait Time fluctuated throughout the year, with peaks aligning with high patient volumes—indicating potential staffing or process bottlenecks.
-
-Satisfaction Scores remained fairly consistent, averaging around 5 out of 10. However, satisfaction tended to dip slightly during high-volume months.
-
-General Practice received the highest number of referrals from the ER, far surpassing other departments, highlighting a possible resource strain in that area.
-
-Most ER admissions occurred during the morning shift, revealing a time-of-day pattern that could guide scheduling or staffing decisions.
-
-Some records had missing department or satisfaction data, indicating the need for improved data entry or system logging.
-
-
-
-
-
-
-
+### References
+1. Data
+   - [Files](https://drive.google.com/drive/folders/1mg8zaCAVh-yzbEcX710vZ5NvzlF-xV6b)
 
 
 
