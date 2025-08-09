@@ -23,10 +23,6 @@ Hospital ER_Data.csv: The main dataset used in this project is the "Hospital ER_
 
 Microsoft Excel – Used for data cleaning, column formatting, and exploratory analysis. Excel features such as pivot tables, slicers, timelines, conditional formatting, and charts were used to build an interactive dashboard and track KPIs.
 
-Here’s a cleaned-up version of your **Data Cleaning / Preparation** section based on what you actually did:
-
----
-
 ### Data Cleaning / Preparation
 
 During the data preparation phase, I used Excel to clean and standardize the dataset for analysis:
@@ -72,11 +68,6 @@ EDA focused on identifying trends and key metrics that would support healthcare 
 - These KPIs were selected to help hospital staff monitor patient flow, satisfaction, and departmental performance over time.
 
 ### Data Analysis
-Yes — I can absolutely help with that. Based on the images and conversations we've had, I’ll translate your SQL-style documentation into **Excel-based equivalents** that mirror what you did, using clear, stakeholder-friendly descriptions.
-
-Here’s a polished version of your **Data Analysis & KPI Calculation** section for this ER project using Excel:
-
-### KPI Calculations (Excel-Based)
 
 I evaluated emergency room performance with the following KPIs in mind.
 
